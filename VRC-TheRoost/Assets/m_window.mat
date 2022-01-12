@@ -173,7 +173,7 @@ Material:
     - m_stencilOptions: 0
     m_Colors:
     - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
-    - _EmissionColor: {r: 1.2290125, g: 1.747929, b: 1.8162074, a: 1}
+    - _EmissionColor: {r: 0, g: 1.9440236, b: 2.1960268, a: 1}
     - _EmissionScrollSpeed: {r: 0, g: 0, b: 0, a: 0}
     - _EmissiveScroll_Direction: {r: 0, g: -10, b: 0, a: 0}
     - _LightDirection: {r: 0, g: 1, b: 0, a: 0}
