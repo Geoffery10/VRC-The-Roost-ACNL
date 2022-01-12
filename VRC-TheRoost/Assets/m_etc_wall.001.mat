@@ -64,7 +64,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 04dd5784636f17444a05267d35a8af57, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
@@ -165,7 +165,7 @@ Material:
     - m_fakeLightingOptions: 0
     - m_mainOptions: 0
     - m_matcapOptions: 0
-    - m_metallicOptions: 0
+    - m_metallicOptions: 1
     - m_miscOptions: 0
     - m_outlineOptions: 0
     - m_rimLightOptions: 0
